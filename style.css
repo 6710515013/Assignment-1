@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8e9ff; /* light purple */
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Header bar */
+h1 {
+    background-color: #c084fc; /* purple bar */
+    color: white;
+    padding: 15px;
+    margin: 0;
+}
+
+/* Profile image */
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+/* Name */
+#Name {
+    font-size: 28px;
+    font-weight: bold;
+    margin: 15px 0 10px 0;
+    color: #4a148c;
+}
+
+/* Introduction paragraph */
+#Introduction {
+    max-width: 600px;
+    margin: 0 auto 20px auto;
+    padding: 10px;
+    background-color: #f3d9ff;
+    border-radius: 10px;
+}
+
+/* Box sections */
+.Box-container {
+    background-color: #f3d9ff;
+    border: 2px dashed #9c27b0;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px auto;
+    max-width: 500px;
+    text-align: left;
+}
+
+.Box-container p {
+    font-weight: bold;
+    color: #4a148c;
+    margin-bottom: 8px;
+}
+
+.Box-container ul {
+    margin: 0;
+    padding-left: 20px;
+}
+
+/* Links */
+a {
+    display: inline-block;
+    margin: 10px;
+    padding: 8px 12px;
+    text-decoration: none;
+    background-color: #9c27b0;
+    color: white;
+    border-radius: 8px;
+}
+
+a:hover {
+    background-color: #7b1fa2;
+}
