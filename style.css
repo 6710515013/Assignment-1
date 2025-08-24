@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f8e9ff; /* light purple */
+    background-color: #e9f8ff; /* light purple */
     margin: 0;
     padding: 0;
     text-align: center;
@@ -8,7 +8,7 @@ body {
 
 /* Header bar */
 h1 {
-    background-color: #c084fc; /* purple bar */
+    background-color: #7ccbf9; /* purple bar */
     color: white;
     padding: 15px;
     margin: 0;
@@ -28,7 +28,7 @@ img {
     font-size: 28px;
     font-weight: bold;
     margin: 15px 0 10px 0;
-    color: #4a148c;
+    color: #e9efff;
 }
 
 /* Introduction paragraph */
@@ -36,14 +36,14 @@ img {
     max-width: 600px;
     margin: 0 auto 20px auto;
     padding: 10px;
-    background-color: #f3d9ff;
+    background-color: #b8dff6;
     border-radius: 10px;
 }
 
 /* Box sections */
 .Box-container {
-    background-color: #f3d9ff;
-    border: 2px dashed #9c27b0;
+    background-color: #b8dff6;
+    border: 2px dashed #3f94ee;
     border-radius: 10px;
     padding: 15px;
     margin: 15px auto;
@@ -53,7 +53,7 @@ img {
 
 .Box-container p {
     font-weight: bold;
-    color: #4a148c;
+    color: #3053b1;
     margin-bottom: 8px;
 }
 
@@ -68,11 +68,11 @@ a {
     margin: 10px;
     padding: 8px 12px;
     text-decoration: none;
-    background-color: #9c27b0;
+    background-color: #7ebcf6;
     color: white;
     border-radius: 8px;
 }
 
 a:hover {
-    background-color: #7b1fa2;
+    background-color: #41bdd3;
 }
